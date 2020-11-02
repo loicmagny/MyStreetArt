@@ -1,0 +1,33 @@
+En tant que visiteur, je peux m'inscrire sur l'application afin de pouvoir créer un parcours de visite
+pour découvrir des oeuvres de Street Art.
+
+En tant qu'utilisateur, je peux parcourir une galerie virtuelle afin de découvrir des oeuvres et/ou des street artist séléctionnés pour moi.
+
+En tant qu'artiste, je peux créer/gérer mon portfolio en ligne afin de donner plus de visibilité à mon travail.
+
+En tant qu'artiste, je peux discuter avec n'importe quel utilisateur via le systeme de messagerie afin de nouer des contacts.
+
+En tant que propriétaire d'une galerie de street art, je peux consulter les artistes mis à l'honneur afin de trouver de nouveaux artistes à exposer.
+
+En tant que visiteur, je veux avoir accès à la galerie virtuelle afin de consulter toutes les oeuvres/artistes.
+
+En tant qu'administrateur, je peux modérer les comptes utilisateurs afin de bannir les comptes ne respectant pas les CGU.
+
+En tant qu'artiste, je veux pouvoir me différencier des comptes ne représentant pas un artiste afin de me donner plus de visibilité.
+
+En tant que propriétaire d'une galerie de street art, je peux être tenu informé des nouvelles oeuvres mises en ligne sur l'application, afin de trouver l'artiste 
+que je souhaite exposer.
+
+En tant qu'utilisateur, je peux donner une note sur une oeuvre ou un artiste afin de motiver l'artiste.
+
+En tant que visiteur, je peux effectuer une recherche avancée afin de trouver l'oeuvre/l'artiste que je cherche.
+
+En tant qu'utilisateur, je peux annuler un trajet prévu en cas d'imprévu afin de ne pas avoir à payer quelque chose que je ne peux pas faire.
+
+En tant qu'utilisateur, je peux partager mes trouvailles sur les réseaux sociaux.
+
+En tant qu'utilisateur, je peux contacter l'administrateur du site afin d'obtenir de l'aide en cas de problème.
+
+En tant qu'artiste, je veux que mes oeuvres soit protégées afin de ne pas être plagié.
+
+
